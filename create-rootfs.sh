@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 默认镜像
-default_mirror="https://mirror.rackspace.com"
-default_mirror2="https://mirrors.ustc.edu.cn"
+default_mirror="https://mirrors.tuna.tsinghua.edu.cn"
+default_mirror2="https://mirrors.tuna.tsinghua.edu.cn"
 
 rootfs=/mnt/rootfs
 root_password="arch1234"
